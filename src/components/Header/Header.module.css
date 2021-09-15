@@ -1,0 +1,8 @@
+.header_wrapper {
+    background: teal;
+    grid-area: h;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding-left: 10px;
+}
